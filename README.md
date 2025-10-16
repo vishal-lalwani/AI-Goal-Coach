@@ -10,7 +10,7 @@ AI Goal Coach is a lightweight AI app that helps users **plan and achieve goals*
 Just type your goal (like *Learn Python* or *Build Muscles*), and the app:
 1. Generates a **7-day personalized plan**
 2. Fetches **real learning resources**
-3. Keeps it simple and motivational 💪
+3. Keeps it simple and motivational
 
 ---
 
